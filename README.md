@@ -8,5 +8,5 @@ If player runs out of time, time's up and the correct answer will be displayed, 
 
 If player choose the wrong answer, correct answer will be displayed and a new question will show. 
 
-on the final scree, player will receive the number of correct and incrret answers and an option to retart the game. 
+On the final scree, player will receive the number of correct and incrret answers and an option to retart the game. 
 
